@@ -4,3 +4,6 @@
 [submodule "notes/attachments"]
 	path = notes/attachments
 	url = git@github.com:xavierloeraflores/markdown-attachments.git
+[submodule "notes/posts"]
+	path = notes/posts
+	url = git@github.com:xavierloeraflores/markdown-entries.git
