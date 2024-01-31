@@ -1,0 +1,3 @@
+[submodule "markdown/posts"]
+	path = markdown/posts
+	url = git@github.com:xavierloeraflores/markdown-entries.git
